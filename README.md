@@ -3,3 +3,6 @@
 Welcome to the class. We are SO EXCITED that you are here. -Andy, Murat, & Marisa
 
 Here's a new line in the README!
+
+Andy is the coolest guy in the world.
+
